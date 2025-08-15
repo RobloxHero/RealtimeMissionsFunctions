@@ -1,0 +1,20 @@
+{
+  "name": "updateEventDB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "deploy": "gcloud functions deploy $npm_package_name --memory 128Mi --region us-east1 --trigger-event-filters=database=realtime-missions-db --trigger-event-filters-path-pattern=document=events/* --trigger-event-filters=type=google.cloud.firestore.document.v1.written --gen2 --entry-point $npm_package_name --source . --runtime nodejs20  --service-account realtime-missions-api@realtime-missions.iam.gserviceaccount.com --stage-bucket realtime-missions-functions "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.3.0",
+    "@google-cloud/tasks": "^5.1.0",
+    "firebase-admin": "^11.11.0",
+    "geofire-common": "^6.0.0",
+    "moment": "^2.30.1",
+    "protobufjs": "^7.2.6"
+  }
+}

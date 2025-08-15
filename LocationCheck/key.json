@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "realtime-missions",
+  "private_key_id": "244e6c547af3243f3da6f03073e1a630623b0da1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjhUHEPR4ngn4z\nHeneLwjJF6aOgYF9//hqugO0lxVSJxdr01Z+pphulw+PBfQLyESzVsnLKeyB4o0X\n3IjSgBZb3yFEmw5WMACy1ggV3/1i3Z+U2ukO7EqVBam1i72GM9tOkFnXrAVdM2+h\nbys6swf0qZIwo7GujvMku1aBlaaANrcuGFQuOcaxxf+AF5dALzoZGr6Jpl94TpCJ\nbS6RTXw8Id5sqryjn/Eo2aQH7i46hvPfNrpQRAGe2PgW2DC0HBMwHyzDHklAalcy\nE2ZFvBsc3ksVANXKrn3esHvKcy5yFKR7jGcqdOx7XDEufwpUWNPS+wKAbP20Rkyr\n9NYjwliHAgMBAAECggEACofP4u/eq8OzFd6ky3qy8aRUxROg/7jGyjS9fVlHdblv\nwDFlfhWDdofC6D6FZ2bXycbaivthsEGjPXil1QyLpBH8BfuIUlOYD+xJrAL3QfEs\n0DzCyoO8D9nEAp2DsItRYb9ZEdMRq11fIIHUwlx6NC7ha8F29VteXCy2VvUIunPx\nJv4P0H0l6NPDB7pDmohYGwYEQ1BqXU6V2UxM9jDwMQCWdZuUau5ulKVIHpBvHtbY\nM3JgoAw9PvfP6Jyv941nxvPNs0LMSrjfqy6qdESTaIWulU4ckJoqwj/6CcnjEcnA\nfP59SGfXVxJgghN7ZKlkc+kZenSVtqBJ7bNbyrFkPQKBgQDfTPgfQ/ZhkbkbKSa/\nUMXKyXhrkXol3TDRm8HtTKuP1imt5IuOKqfYGfUKvvGbb8ZOraaccCwNe0EbVd9G\nXR3TQAbdlnMLD5z8ohJdpBbzKrUHigbgVMI4JdJQ3A5/IgWdhPQCRoCFE+BouGOx\ncGDFejvcH1myJX6Cm1zO4eexPQKBgQC7d0R9q1Woox5HVNSOvEBcspZjRBLE1Don\nYroCTq1dQMUuEDOujDTQauL5rWZgjU9Od7zQ6DMMme4fgrutk/Xjt/PgOuxasqhE\n3949MbO7suQjurs/glAmwxq+8max8M8MYIhsuLMAYn8dQwElQ2T1ICaybmp6dm1B\npj70eyIFEwKBgEIITMdSHaW0pfx2KtMgW50f/tAwcOKJikoxuSMnLQSX3DNkBjDA\nRGoPIvtOg7vnTckuaLqSITTLYfFnb2MrXgp+QIl+V/7JWy8J7kxqna7Czk2wb2Af\nMF/SL2Nh75eAxBBUpKOXnaG8wvu0qyZpiPRctR7e1nNrywFsWAGFpDIxAoGANlQl\nTEpIQ9wqHUAPbeJOwM6c2N3UlqhuxhVNlPeaNIld27CkWbSWZcRkTTmcjuTFFBeN\nZ/mzObaulQE9RNu5iio4ikZpUwutynAapx9tWDtK9LPcKlaoxeMLMEVtz6nbR1n+\nj4ujjLv+3MsbXOJAMu4DaPio8R67ISh93DqHLHMCgYAEt19ry373vpYub0dsVbP1\nSOaxMh6GS7z5Hpa1PlXG9Xm9ybKD4tjY+k1u9d2qdw7Ck4OidXt8H2bfPw+g/zlN\nl3SmxDP1is/V/UdZBCmBrNcEsPg5byx7o9qZhJwHVkmZ+6CArt51abY0KjN8LJ9Z\n/MfmwRZWcqHUWGviqotEhQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "realtime-missions-api@realtime-missions.iam.gserviceaccount.com",
+  "client_id": "101719457878856264917",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/realtime-missions-api%40realtime-missions.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
