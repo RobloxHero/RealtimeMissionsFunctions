@@ -3,7 +3,7 @@
 A collection of Functions written for firebase functions.
 
 - Functions:
-authUser
+  - authUser
   - createUser
   - EventController
   - LocationCheck
